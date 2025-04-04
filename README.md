@@ -8,6 +8,10 @@ This is a personal portfolio website to showcase projects, skills, and contact i
 - Projects showcase
 - Contact form
 
+## Live Demo
+Check out the deployed project: [Portfolio Website](https://zamzamrotich.netlify.app/)
+
+
 ## Installation Guide
 
 ### Prerequisites
